@@ -1,0 +1,3 @@
+kinematicMomentumTransportModels/kinematicMomentumTransportModels_mod.C
+
+LIB = $(FOAM_USER_LIBBIN)/libIncompressibleMomentumTransportModels_mod
